@@ -7,7 +7,7 @@ ifndef VERBOSE
 endif
 
 .ONESHELL:
-SHELL = /bin/bash
+SHELL = bash
 
 default: help
 
